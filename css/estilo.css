@@ -124,3 +124,33 @@ background-color: blue;
 .footer {
   text-align: center;
 }
+
+/*********************ANIMACIONES*********************/
+
+.menu:hover{
+  background-color: azure;
+color: black;
+font-size: 40px;
+border: grey 5px solid;
+border-radius: 30 px;
+box-shadow  5px  grey;
+background: linear-gradient(  blue, skyblue,white);
+}
+
+
+.padreGrid :hover{
+  border-radius: 60px;
+  box-shadow: 2px 2px black;
+  background-color: aqua;
+  background-image: linear-gradient( blue, skyblue,white);
+}
+
+.gridPadreMul :hover{
+  border-radius: 60px;
+  box-shadow: 2px 2px black;
+  background-color: aqua;
+  background-image: linear-gradient( blue, skyblue,whit
+
+}
+
+.animate_animated.animate
